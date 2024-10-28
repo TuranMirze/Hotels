@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\obj\Debug\net8.0\ClassTaskEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\obj\Debug\net8.0\ClassTaskEnum.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\obj\Debug\net8.0\ClassTaskEnum.AssemblyInfo.cs
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\obj\Debug\net8.0\ClassTaskEnum.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\bin\Debug\net8.0\ClassTaskEnum.exe
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\bin\Debug\net8.0\ClassTaskEnum.deps.json
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\bin\Debug\net8.0\ClassTaskEnum.runtimeconfig.json
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\bin\Debug\net8.0\ClassTaskEnum.dll
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\bin\Debug\net8.0\ClassTaskEnum.pdb
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\obj\Debug\net8.0\ClassTaskEnum.dll
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\obj\Debug\net8.0\refint\ClassTaskEnum.dll
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\obj\Debug\net8.0\ClassTaskEnum.pdb
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\obj\Debug\net8.0\ClassTaskEnum.genruntimeconfig.cache
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\obj\Debug\net8.0\ref\ClassTaskEnum.dll

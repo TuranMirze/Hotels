@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\bin\Debug\net8.0\ConsoleApp(with List).exe
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\bin\Debug\net8.0\ConsoleApp(with List).deps.json
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\bin\Debug\net8.0\ConsoleApp(with List).runtimeconfig.json
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\bin\Debug\net8.0\ConsoleApp(with List).dll
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\bin\Debug\net8.0\ConsoleApp(with List).pdb
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\obj\Debug\net8.0\ConsoleApp(with List).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\obj\Debug\net8.0\ConsoleApp(with List).AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\obj\Debug\net8.0\ConsoleApp(with List).AssemblyInfo.cs
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\obj\Debug\net8.0\ConsoleApp(with List).csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\obj\Debug\net8.0\ConsoleApp(with List).dll
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\obj\Debug\net8.0\refint\ConsoleApp(with List).dll
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\obj\Debug\net8.0\ConsoleApp(with List).pdb
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\obj\Debug\net8.0\ConsoleApp(with List).genruntimeconfig.cache
+C:\Users\HP\source\repos\ClassTaskEnum\ClassTaskEnum\obj\Debug\net8.0\ref\ConsoleApp(with List).dll
